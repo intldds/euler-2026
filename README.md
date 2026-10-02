@@ -1,2 +1,2 @@
-# euler-2026
+# Euler (2026)
 Euler problems solved in Python
